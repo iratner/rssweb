@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/mssql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/mssql/index.html
+END
+mssql_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/mssql/mssql_driver.php
+END
+mssql_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/mssql/mssql_forge.php
+END
+mssql_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/mssql/mssql_result.php
+END
+mssql_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/mssql/mssql_utility.php
+END

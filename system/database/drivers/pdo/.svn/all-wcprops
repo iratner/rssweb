@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/pdo
+END
+pdo_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/pdo/pdo_utility.php
+END
+pdo_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/pdo/pdo_driver.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/pdo/index.html
+END
+pdo_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/pdo/pdo_result.php
+END
+pdo_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/franklin_rssweb2/!svn/ver/9/system/database/drivers/pdo/pdo_forge.php
+END

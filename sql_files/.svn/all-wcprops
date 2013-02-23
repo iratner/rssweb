@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/franklin_rssweb2/!svn/ver/104/sql_files
+END
+2_table-setup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/franklin_rssweb2/!svn/ver/34/sql_files/2_table-setup.sql
+END
+3_sample_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/franklin_rssweb2/!svn/ver/93/sql_files/3_sample_data.sql
+END
+5_Create_Prune-Events.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/franklin_rssweb2/!svn/ver/91/sql_files/5_Create_Prune-Events.sql
+END
+X_Shared-Queries.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/franklin_rssweb2/!svn/ver/104/sql_files/X_Shared-Queries.sql
+END
+4_message-tabe-create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/franklin_rssweb2/!svn/ver/83/sql_files/4_message-tabe-create.sql
+END
+1_database-user_setup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/franklin_rssweb2/!svn/ver/33/sql_files/1_database-user_setup.sql
+END

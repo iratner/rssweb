@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/franklin_rssweb2/!svn/ver/104/application/views
+END
+feed_manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/franklin_rssweb2/!svn/ver/101/application/views/feed_manage.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/franklin_rssweb2/!svn/ver/96/application/views/login.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/franklin_rssweb2/!svn/ver/8/application/views/index.html
+END
+rss_reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/franklin_rssweb2/!svn/ver/102/application/views/rss_reader.php
+END
+register.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/franklin_rssweb2/!svn/ver/96/application/views/register.php
+END
+logged-out.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/franklin_rssweb2/!svn/ver/105/application/views/logged-out.php
+END

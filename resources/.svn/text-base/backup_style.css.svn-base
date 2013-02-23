@@ -1,0 +1,168 @@
+
+/* former sytlesheet with fixed main div and fixed positioned
+ * logo.
+ * 
+ * changed over 2/1/2012 by Ilya
+ */
+
+body {
+	background-color: #e4e4e4;
+}
+
+body, p, form {
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+}
+
+h1 {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-weight: bold;
+}
+
+#header {
+	position: relative;
+	width: 100%;
+	background-color: #8a8a8a;
+	height: 81px;
+}
+
+#main {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #f7f7f7;
+	min-height: 600px;
+	padding-top: 40px;
+}
+
+/* Ilya's css */
+
+/* login page */
+
+#login-btn {
+	float: right;
+}
+
+#login-form {
+	
+	font-family: "Lucinda Sans", Arial, Helvetica, sans-serf;
+	width: 480px;
+	margin: 0 auto;
+	background-color: #808080;
+	border-radius: 10px;
+	padding: 20px 0;
+}
+
+#login-form p {
+	font-size: large;
+	margin: 0;
+	padding: 0;
+}
+
+#login-form h2 {
+	margin: 0 0 40px 5px;
+	color: #F7F7F7;
+}
+
+#login-form input {
+	margin: 1px 5px 2px 0;
+}
+
+#login-form form {
+	width: 420px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+#register {
+	margin: 0 auto;
+	width: 200px;
+}
+
+#register h3 {
+	margin-left: 60px;
+}
+
+#register a {
+	text-decoration: none;
+	color: #ff8000;
+}
+
+#register a:hover {
+	color:#50b2f2;
+}
+
+.login-form-left{
+	float: left;
+	margin: 0;
+}
+
+.login-form-right{
+	float: right;
+	margin: 0;
+}
+
+h5.no-br-p {
+	display: inline;
+	vertical-align: top;
+	color: #50b2f2;
+	font-weight: normal;
+}
+
+
+/* End, Ilya's css*/
+
+/* Begin, John's css */
+
+#reader-sub-header {
+	padding: 4px ;
+}	
+
+#reader-left-column {
+	float: left;
+	width: 200px;
+	margin: 0 10;
+	
+}
+
+#reader-right-column {
+	float: right;
+	width: 70%;
+}
+
+#reader-feeds {
+	float: left;
+	margin: 0 10 3 3;
+}
+
+#reader-feeds a {
+	text-decoration: none;
+	color: #ff8000;
+}
+
+#reader-feeds a:hover {
+	color:#50b2f2;
+}
+
+#reader-subscriptions {
+	/* TODO */
+}
+
+#reader-subscriptions a {
+	text-decoration: none;
+	color: #ff8000;
+}
+
+#reader-subscriptions a:hover {
+	color:#50b2f2;
+}
+
+/* End, John's css */
+
+.logo {
+	
+	position:absolute;
+	left: -480px;
+	margin-left: 50%;
+}
